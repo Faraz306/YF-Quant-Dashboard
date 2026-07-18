@@ -1,5 +1,5 @@
 streamlit
 pandas
-MetaTrader5
+yahoo-finance
 numpy
 scikit-learn
