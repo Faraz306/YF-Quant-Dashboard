@@ -1,0 +1,7 @@
+trades, win_rate, pnl, strat, name
+0, 0.00, 0.00, bearFVG,Chinu
+0, 0.00, 0.00, bullFVG,Pinu
+1, 0.00, -19.29, liquidity_pool_short_term_high,Jack
+1, 0.00, -12.96, liquidity_pool_short_term_low,Rozie
+7, 85.71, 185.66, ob_bear,Faraz
+2, 100.00, 30.48, ob_bull,Kalia

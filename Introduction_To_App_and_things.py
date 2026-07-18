@@ -1,0 +1,18 @@
+import streamlit as st
+
+st.title("Welcome to the Introduction of this App: YF Quant Dashboard!")
+st.write("This app was published on 7/15/2026")
+st.write("Here are all the parts of the app!")
+st.image("Screenshot 2026-07-10 000412.png", width=200)
+st.write("This is the sidebar. here's where you test.")
+st.write("We use Backtesting to test the funcs. just enter the name of symbol, and backtest in that symbol!")
+st.write("Each one of these page automatically starts testing when you visit them. and this is like fun for everyone!")
+st.write("The prediction page takes data from the trades, and then tell the most profitable strats. good if you want to know the best strat too!")
+st.write("If you want to code, don't open a heavy ide! use the coding area in our app! there, you can upload files, chat with Gemini using a API key, code there, and run commands like pip install, streamlit run, etc...")
+st.write("If you get bored, use the TIC-TAC-TOE play it now! page. There, you can play with someone sitting with you, and there's a leaderboard telling who won and when!")
+st.write("If you want to laugh, go to the Memes page!")
+st.write("You can also create memes on the Memes page. the Meme will consist of your name and meme and it will appear on community memes page!")
+st.write("There is a Dash board page. it will show your memes, an AI, all backtesting history and predictions.")
+st.header("IMPORTANT THING:")
+st.write("You can't trade here on Weekends or you'll get a 10018 ERROR (MARKET CLOSED)")
+st.write("So get ready to experience the pro-level app... let's go!")
